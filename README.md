@@ -1,6 +1,6 @@
-﻿# Spare Control
+# Spare Control
 
-> RepositÃ³rio do projeto **Spare Control**.
+> Repositório do projeto **Spare Control**.
 
 ## Tecnologias
 
@@ -8,21 +8,28 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - _A definir_
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/Spare_Control.git
 cd Spare_Control
 ```
 
-## ContribuiÃ§Ã£o
+## Estrutura do projeto
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+```
+Spare_Control/
+└── README.md
+```
+
+## Contribuição
+
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
